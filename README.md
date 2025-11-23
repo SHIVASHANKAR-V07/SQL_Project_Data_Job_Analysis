@@ -98,7 +98,7 @@ Frequent skills for top paying Data Analyst roles in 2023 :
 - **Python** takes the runner-up position with count of ' 7 '.
 - **Tableau** is following the race in third place trailed by **R**, **Snowflake**, and **Pandas**.
 
-![Skills for Top Paying Jobs](assets\2_top_paying_job_skills.png)
+![Skills for Top Paying Jobs](assets/2_top_paying_job_skills.png)
 *Bar Chart Visualisation for top paying job skills was genearated using ChatGPT*
 
 ### 3. Most In-Demand Skills
