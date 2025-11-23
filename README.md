@@ -155,7 +155,7 @@ Insights about Skills paying top salaries :
 - **Software Development** and **Deployment** Proficiency.
 - Cloud Computing Expertise - **ElasticSearch** and **DataBricks**.
 
-![Top Paying Skills](assets\4_top_paying_skills.png)
+![Top Paying Skills](assets/4_top_paying_skills.png)
 *Bar Chart Visualization for top paying skills was generated using ChatGPT*
 
 ### 5. Optimal Skills 
