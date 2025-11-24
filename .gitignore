@@ -1,2 +1,8 @@
 /.vscode
 /csv_files
+sql_load/1_create_database.sql
+sql_load/2_create_tables.sql
+sql_load/4_dates.sql
+sql_load/5_cases.sql
+sql_load/6_subqueries_CTEs.sql
+sql_load/7_unions.sql

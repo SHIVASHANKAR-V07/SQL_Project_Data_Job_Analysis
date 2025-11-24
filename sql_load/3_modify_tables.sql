@@ -1,5 +1,4 @@
-/* ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
-Database Load Issues (follow if receiving permission denied when running SQL code below)
+/*
 
 Possible Errors: 
 - ERROR >>  duplicate key value violates unique constraint "company_dim_pkey"
@@ -28,7 +27,6 @@ Possible Errors:
 
 */
 
--- NOTE: This has been updated from the video to fix issues with encoding
 COPY company_dim
 FROM 'C:/Users/rupa3/Documents/Self-Study[DA]/SQL_Project_Data_Job_Analysis/csv_files/company_dim.csv'
 WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');
